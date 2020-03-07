@@ -1,4 +1,4 @@
-17436149542954037
+17437732753577800
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -77251,6 +77251,13 @@ kailh,choc
 0
 4
 2
+keyswitches
+MXOnly-1U-Hotswap-Double-noled
+
+
+0
+10
+3
 keyswitches
 SW_MX
 MX-style keyswitch

@@ -32,7 +32,7 @@ U 1 1 5E55FEB5
 P 4900 2050
 F 0 "MX4" H 4933 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 4933 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4275 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4275 2025 60  0001 C CNN
 F 3 "" H 4275 2025 60  0001 C CNN
 	1    4900 2050
 	1    0    0    -1  
@@ -56,7 +56,7 @@ U 1 1 5E567704
 P 5350 2050
 F 0 "MX12" H 5383 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 5383 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4725 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4725 2025 60  0001 C CNN
 F 3 "" H 4725 2025 60  0001 C CNN
 	1    5350 2050
 	1    0    0    -1  
@@ -80,7 +80,7 @@ U 1 1 5E5697A9
 P 5800 2050
 F 0 "MX22" H 5833 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 5175 2025 60  0001 C CNN
 F 3 "" H 5175 2025 60  0001 C CNN
 	1    5800 2050
 	1    0    0    -1  
@@ -104,7 +104,7 @@ U 1 1 5E56B757
 P 4900 2650
 F 0 "MX6" H 4933 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 4933 2799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4275 2625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4275 2625 60  0001 C CNN
 F 3 "" H 4275 2625 60  0001 C CNN
 	1    4900 2650
 	1    0    0    -1  
@@ -128,7 +128,7 @@ U 1 1 5E56E094
 P 5400 2650
 F 0 "MX14" H 5433 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 5433 2799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4775 2625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4775 2625 60  0001 C CNN
 F 3 "" H 4775 2625 60  0001 C CNN
 	1    5400 2650
 	1    0    0    -1  
@@ -152,7 +152,7 @@ U 1 1 5E56FFC5
 P 5850 2650
 F 0 "MX24" H 5883 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 5883 2799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5225 2625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 5225 2625 60  0001 C CNN
 F 3 "" H 5225 2625 60  0001 C CNN
 	1    5850 2650
 	1    0    0    -1  
@@ -176,7 +176,7 @@ U 1 1 5E57255B
 P 5400 3550
 F 0 "MX16" H 5433 3773 60  0000 C CNN
 F 1 "MX-NoLED" H 5433 3699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4775 3525 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4775 3525 60  0001 C CNN
 F 3 "" H 4775 3525 60  0001 C CNN
 	1    5400 3550
 	1    0    0    -1  
@@ -200,7 +200,7 @@ U 1 1 5E573576
 P 5050 4150
 F 0 "MX8" H 5083 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 5083 4299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4425 4125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4425 4125 60  0001 C CNN
 F 3 "" H 4425 4125 60  0001 C CNN
 	1    5050 4150
 	1    0    0    -1  
@@ -224,7 +224,7 @@ U 1 1 5E574C93
 P 5450 4150
 F 0 "MX18" H 5483 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 5483 4299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4825 4125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4825 4125 60  0001 C CNN
 F 3 "" H 4825 4125 60  0001 C CNN
 	1    5450 4150
 	1    0    0    -1  
@@ -248,7 +248,7 @@ U 1 1 5E576B06
 P 5850 4150
 F 0 "MX26" H 5883 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 5883 4299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5225 4125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 5225 4125 60  0001 C CNN
 F 3 "" H 5225 4125 60  0001 C CNN
 	1    5850 4150
 	1    0    0    -1  
@@ -272,7 +272,7 @@ U 1 1 5E579969
 P 6750 2050
 F 0 "MX28" H 6783 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 6783 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6125 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6125 2025 60  0001 C CNN
 F 3 "" H 6125 2025 60  0001 C CNN
 	1    6750 2050
 	1    0    0    -1  
@@ -296,7 +296,7 @@ U 1 1 5E57BCE8
 P 7200 2050
 F 0 "MX38" H 7233 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6575 2025 60  0001 C CNN
 F 3 "" H 6575 2025 60  0001 C CNN
 	1    7200 2050
 	1    0    0    -1  
@@ -320,7 +320,7 @@ U 1 1 5E57DAEE
 P 7650 2050
 F 0 "MX46" H 7683 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 7683 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7025 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7025 2025 60  0001 C CNN
 F 3 "" H 7025 2025 60  0001 C CNN
 	1    7650 2050
 	1    0    0    -1  
@@ -357,7 +357,7 @@ U 1 1 5E584512
 P 5350 1400
 F 0 "MX10" H 5383 1623 60  0000 C CNN
 F 1 "MX-NoLED" H 5383 1549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4725 1375 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4725 1375 60  0001 C CNN
 F 3 "" H 4725 1375 60  0001 C CNN
 	1    5350 1400
 	1    0    0    -1  
@@ -381,7 +381,7 @@ U 1 1 5E586342
 P 5800 1400
 F 0 "MX20" H 5833 1623 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 1549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 1375 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 5175 1375 60  0001 C CNN
 F 3 "" H 5175 1375 60  0001 C CNN
 	1    5800 1400
 	1    0    0    -1  
@@ -405,7 +405,7 @@ U 1 1 5E588109
 P 8100 2050
 F 0 "MX56" H 8133 2273 60  0000 C CNN
 F 1 "MX-NoLED" H 8133 2199 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7475 2025 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7475 2025 60  0001 C CNN
 F 3 "" H 7475 2025 60  0001 C CNN
 	1    8100 2050
 	1    0    0    -1  
@@ -429,7 +429,7 @@ U 1 1 5E589F02
 P 6750 2600
 F 0 "MX30" H 6783 2823 60  0000 C CNN
 F 1 "MX-NoLED" H 6783 2749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6125 2575 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6125 2575 60  0001 C CNN
 F 3 "" H 6125 2575 60  0001 C CNN
 	1    6750 2600
 	1    0    0    -1  
@@ -453,7 +453,7 @@ U 1 1 5E58BD19
 P 7200 2600
 F 0 "MX40" H 7233 2823 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 2749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 2575 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6575 2575 60  0001 C CNN
 F 3 "" H 6575 2575 60  0001 C CNN
 	1    7200 2600
 	1    0    0    -1  
@@ -477,7 +477,7 @@ U 1 1 5E58DEE3
 P 7650 2600
 F 0 "MX48" H 7683 2823 60  0000 C CNN
 F 1 "MX-NoLED" H 7683 2749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7025 2575 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7025 2575 60  0001 C CNN
 F 3 "" H 7025 2575 60  0001 C CNN
 	1    7650 2600
 	1    0    0    -1  
@@ -501,7 +501,7 @@ U 1 1 5E591219
 P 8100 2850
 F 0 "MX58-2u1" H 8133 3073 60  0000 C CNN
 F 1 "MX-NoLED" H 8133 2999 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7475 2825 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7475 2825 60  0001 C CNN
 F 3 "" H 7475 2825 60  0001 C CNN
 	1    8100 2850
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 5E593957
 P 6750 3150
 F 0 "MX32" H 6783 3373 60  0000 C CNN
 F 1 "MX-NoLED" H 6783 3299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6125 3125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6125 3125 60  0001 C CNN
 F 3 "" H 6125 3125 60  0001 C CNN
 	1    6750 3150
 	1    0    0    -1  
@@ -549,7 +549,7 @@ U 1 1 5E595A34
 P 7200 3150
 F 0 "MX42" H 7233 3373 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 3299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 3125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6575 3125 60  0001 C CNN
 F 3 "" H 6575 3125 60  0001 C CNN
 	1    7200 3150
 	1    0    0    -1  
@@ -573,7 +573,7 @@ U 1 1 5E597E86
 P 7650 3150
 F 0 "MX50" H 7683 3373 60  0000 C CNN
 F 1 "MX-NoLED" H 7683 3299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7025 3125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7025 3125 60  0001 C CNN
 F 3 "" H 7025 3125 60  0001 C CNN
 	1    7650 3150
 	1    0    0    -1  
@@ -597,7 +597,7 @@ U 1 1 5E59A1F5
 P 6750 3650
 F 0 "MX34" H 6783 3873 60  0000 C CNN
 F 1 "MX-NoLED" H 6783 3799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6125 3625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6125 3625 60  0001 C CNN
 F 3 "" H 6125 3625 60  0001 C CNN
 	1    6750 3650
 	1    0    0    -1  
@@ -621,7 +621,7 @@ U 1 1 5E59C61F
 P 7200 3650
 F 0 "MX44" H 7233 3873 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 3799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 3625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6575 3625 60  0001 C CNN
 F 3 "" H 6575 3625 60  0001 C CNN
 	1    7200 3650
 	1    0    0    -1  
@@ -645,7 +645,7 @@ U 1 1 5E59EBD0
 P 7650 3650
 F 0 "MX52" H 7683 3873 60  0000 C CNN
 F 1 "MX-NoLED" H 7683 3799 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7025 3625 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7025 3625 60  0001 C CNN
 F 3 "" H 7025 3625 60  0001 C CNN
 	1    7650 3650
 	1    0    0    -1  
@@ -669,7 +669,7 @@ U 1 1 5E5A8C99
 P 7650 4150
 F 0 "MX54" H 7683 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 7683 4299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7025 4125 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7025 4125 60  0001 C CNN
 F 3 "" H 7025 4125 60  0001 C CNN
 	1    7650 4150
 	1    0    0    -1  
@@ -693,7 +693,7 @@ U 1 1 5E5ABB04
 P 8100 3800
 F 0 "MX60-2u1" H 8133 4023 60  0000 C CNN
 F 1 "MX-NoLED" H 8133 3949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7475 3775 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 7475 3775 60  0001 C CNN
 F 3 "" H 7475 3775 60  0001 C CNN
 	1    8100 3800
 	1    0    0    -1  
@@ -717,7 +717,7 @@ U 1 1 5E5B56AF
 P 7000 4200
 F 0 "MX36" H 7033 4423 60  0000 C CNN
 F 1 "MX-NoLED" H 7033 4349 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6375 4175 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 6375 4175 60  0001 C CNN
 F 3 "" H 6375 4175 60  0001 C CNN
 	1    7000 4200
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 1 1 5E581B3B
 P 4900 1400
 F 0 "MX1" H 4933 1623 60  0000 C CNN
 F 1 "MX-NoLED" H 4933 1549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4275 1375 60  0001 C CNN
+F 2 "keyswitches:MXOnly-1U-Hotswap-Double-noled" H 4275 1375 60  0001 C CNN
 F 3 "" H 4275 1375 60  0001 C CNN
 	1    4900 1400
 	1    0    0    -1  
@@ -1017,17 +1017,15 @@ F 3 "~" H 3500 1350 50  0001 C CNN
 	1    3500 1150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2900 1150 3300 1150
 $Comp
 L power:GND #PWR0102
 U 1 1 5E5DE0AB
-P 3700 1150
-F 0 "#PWR0102" H 3700 900 50  0001 C CNN
-F 1 "GND" H 3705 977 50  0000 C CNN
-F 2 "" H 3700 1150 50  0001 C CNN
-F 3 "" H 3700 1150 50  0001 C CNN
-	1    3700 1150
+P 3300 1150
+F 0 "#PWR0102" H 3300 900 50  0001 C CNN
+F 1 "GND" H 3305 977 50  0000 C CNN
+F 2 "" H 3300 1150 50  0001 C CNN
+F 3 "" H 3300 1150 50  0001 C CNN
+	1    3300 1150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1153,6 +1151,110 @@ F 1 "MountingHole" H 1800 4255 50  0000 L CNN
 F 2 "keyswitches:Stabilizer_MX_2u" H 1700 4300 50  0001 C CNN
 F 3 "~" H 1700 4300 50  0001 C CNN
 	1    1700 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 1150 3250 1150
+Wire Wire Line
+	3250 1150 3250 1000
+Wire Wire Line
+	3250 1000 3700 1000
+Wire Wire Line
+	3700 1000 3700 1150
+Text GLabel 1500 1950 0    50   Input ~ 0
+LED
+$Comp
+L Lily58-rescue:LED-Lily58-cache J2
+U 1 1 5E61BCD4
+P 1350 2450
+F 0 "J2" H 1270 2400 50  0000 R CNN
+F 1 "LED-Lily58-cache" H 1270 2491 50  0000 R CNN
+F 2 "Lily58-footprint:LED" H 1350 2450 50  0001 C CNN
+F 3 "" H 1350 2450 50  0001 C CNN
+	1    1350 2450
+	1    0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5E61D88D
+P 1950 2550
+F 0 "#PWR0108" H 1950 2300 50  0001 C CNN
+F 1 "GND" H 1955 2377 50  0000 C CNN
+F 2 "" H 1950 2550 50  0001 C CNN
+F 3 "" H 1950 2550 50  0001 C CNN
+	1    1950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0109
+U 1 1 5E61E8E9
+P 1950 2350
+F 0 "#PWR0109" H 1950 2200 50  0001 C CNN
+F 1 "VCC" H 1967 2523 50  0000 C CNN
+F 2 "" H 1950 2350 50  0001 C CNN
+F 3 "" H 1950 2350 50  0001 C CNN
+	1    1950 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1550 2350 1950 2350
+Text GLabel 1550 2450 2    50   Input ~ 0
+LED
+Wire Wire Line
+	1550 2550 1950 2550
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5E680083
+P 3350 6200
+F 0 "H5" H 3450 6246 50  0000 L CNN
+F 1 "MountingHole" H 3450 6155 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 6200 50  0001 C CNN
+F 3 "~" H 3350 6200 50  0001 C CNN
+	1    3350 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E681EA0
+P 3350 6000
+F 0 "H4" H 3450 6046 50  0000 L CNN
+F 1 "MountingHole" H 3450 5955 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 6000 50  0001 C CNN
+F 3 "~" H 3350 6000 50  0001 C CNN
+	1    3350 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5E6823C8
+P 3350 6400
+F 0 "H6" H 3450 6446 50  0000 L CNN
+F 1 "MountingHole" H 3450 6355 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 6400 50  0001 C CNN
+F 3 "~" H 3350 6400 50  0001 C CNN
+	1    3350 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 5E6825E9
+P 3350 6600
+F 0 "H7" H 3450 6646 50  0000 L CNN
+F 1 "MountingHole" H 3450 6555 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 6600 50  0001 C CNN
+F 3 "~" H 3350 6600 50  0001 C CNN
+	1    3350 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 5E682793
+P 3350 6800
+F 0 "H8" H 3450 6846 50  0000 L CNN
+F 1 "MountingHole" H 3450 6755 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 6800 50  0001 C CNN
+F 3 "~" H 3350 6800 50  0001 C CNN
+	1    3350 6800
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
