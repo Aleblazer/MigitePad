@@ -1258,23 +1258,23 @@ F 3 "~" H 3350 6800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Rotary_Encoder_Switch SW?
+L Device:Rotary_Encoder_Switch SW2
 U 1 1 5E65AE52
 P 9000 2100
-F 0 "SW?" H 9000 2467 50  0000 C CNN
+F 0 "SW2" H 9000 2467 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 9000 2376 50  0000 C CNN
-F 2 "" H 8850 2260 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 8850 2260 50  0001 C CNN
 F 3 "~" H 9000 2360 50  0001 C CNN
 	1    9000 2100
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:D_Small D?
+L Device:D_Small D31
 U 1 1 5E668E53
 P 8700 2300
-F 0 "D?" V 8746 2232 50  0000 R CNN
+F 0 "D31" V 8746 2232 50  0000 R CNN
 F 1 "D_Small" V 8655 2232 50  0000 R CNN
-F 2 "" V 8700 2300 50  0001 C CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" V 8700 2300 50  0001 C CNN
 F 3 "~" V 8700 2300 50  0001 C CNN
 	1    8700 2300
 	0    -1   -1   0   
@@ -1298,10 +1298,10 @@ RETX
 Text GLabel 9300 2200 2    50   Input ~ 0
 RERX
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0110
 U 1 1 5E68B0C4
 P 9650 2100
-F 0 "#PWR?" H 9650 1850 50  0001 C CNN
+F 0 "#PWR0110" H 9650 1850 50  0001 C CNN
 F 1 "GND" H 9655 1927 50  0000 C CNN
 F 2 "" H 9650 2100 50  0001 C CNN
 F 3 "" H 9650 2100 50  0001 C CNN
@@ -1310,4 +1310,15 @@ F 3 "" H 9650 2100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9300 2100 9650 2100
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 5E65D16B
+P 3350 7000
+F 0 "H9" H 3450 7046 50  0000 L CNN
+F 1 "MountingHole" H 3450 6955 50  0000 L CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 3350 7000 50  0001 C CNN
+F 3 "~" H 3350 7000 50  0001 C CNN
+	1    3350 7000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
