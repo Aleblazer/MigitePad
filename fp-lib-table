@@ -5,4 +5,5 @@
   (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
   (lib (name Lily58-footprint)(type KiCad)(uri ${KIPRJMOD}/Lily58-footprint.pretty)(options "")(descr ""))
   (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/keyswitches.pretty)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/Logo.pretty)(options "")(descr ""))
 )
