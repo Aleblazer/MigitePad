@@ -850,13 +850,11 @@ Connection ~ 8250 2800
 Wire Wire Line
 	8250 2800 8250 3750
 Wire Wire Line
-	6900 2000 6900 1600
+	6900 2000 6900 1650
 Wire Wire Line
 	7350 2000 7350 1600
 Wire Wire Line
 	7800 2000 7800 1600
-Wire Wire Line
-	8250 2000 8250 1750
 Wire Wire Line
 	5700 2400 6650 2400
 Connection ~ 5700 2400
@@ -1260,56 +1258,46 @@ $EndComp
 $Comp
 L Device:Rotary_Encoder_Switch SW2
 U 1 1 5E65AE52
-P 9000 2100
-F 0 "SW2" H 9000 2467 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 9000 2376 50  0000 C CNN
-F 2 "Keebio-Parts:RotaryEncoder_EC11" H 8850 2260 50  0001 C CNN
-F 3 "~" H 9000 2360 50  0001 C CNN
-	1    9000 2100
+P 6950 1000
+F 0 "SW2" H 6950 1367 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 6950 1276 50  0000 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 6800 1160 50  0001 C CNN
+F 3 "~" H 6950 1260 50  0001 C CNN
+	1    6950 1000
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:D_Small D31
 U 1 1 5E668E53
-P 8700 2300
-F 0 "D31" V 8746 2232 50  0000 R CNN
-F 1 "D_Small" V 8655 2232 50  0000 R CNN
-F 2 "Lily58-footprint:Diode_TH_SOD123" V 8700 2300 50  0001 C CNN
-F 3 "~" V 8700 2300 50  0001 C CNN
-	1    8700 2300
+P 6650 1200
+F 0 "D31" V 6696 1132 50  0000 R CNN
+F 1 "D_Small" V 6605 1132 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" V 6650 1200 50  0001 C CNN
+F 3 "~" V 6650 1200 50  0001 C CNN
+	1    6650 1200
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	8000 2400 8700 2400
-Connection ~ 8000 2400
-Wire Wire Line
-	8700 2000 8700 1750
-Wire Wire Line
-	8700 1750 8250 1750
-Connection ~ 8250 1750
-Wire Wire Line
-	8250 1750 8250 1600
 Text GLabel 1500 950  0    50   Input ~ 0
 RETX
 Text GLabel 1500 1050 0    50   Input ~ 0
 RERX
-Text GLabel 9300 2000 2    50   Input ~ 0
+Text GLabel 7250 900  2    50   Input ~ 0
 RETX
-Text GLabel 9300 2200 2    50   Input ~ 0
+Text GLabel 7250 1100 2    50   Input ~ 0
 RERX
 $Comp
 L power:GND #PWR0110
 U 1 1 5E68B0C4
-P 9650 2100
-F 0 "#PWR0110" H 9650 1850 50  0001 C CNN
-F 1 "GND" H 9655 1927 50  0000 C CNN
-F 2 "" H 9650 2100 50  0001 C CNN
-F 3 "" H 9650 2100 50  0001 C CNN
-	1    9650 2100
+P 7600 1000
+F 0 "#PWR0110" H 7600 750 50  0001 C CNN
+F 1 "GND" H 7605 827 50  0000 C CNN
+F 2 "" H 7600 1000 50  0001 C CNN
+F 3 "" H 7600 1000 50  0001 C CNN
+	1    7600 1000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9300 2100 9650 2100
+	7250 1000 7600 1000
 $Comp
 L Mechanical:MountingHole H9
 U 1 1 5E65D16B
@@ -1321,4 +1309,20 @@ F 3 "~" H 3350 7000 50  0001 C CNN
 	1    3350 7000
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	8250 1600 8250 2000
+Wire Wire Line
+	5700 1750 6650 1750
+Wire Wire Line
+	6650 1750 6650 1300
+Connection ~ 5700 1750
+Wire Wire Line
+	6650 900  6450 900 
+Wire Wire Line
+	6450 900  6450 1650
+Wire Wire Line
+	6450 1650 6900 1650
+Connection ~ 6900 1650
+Wire Wire Line
+	6900 1650 6900 1600
 $EndSCHEMATC

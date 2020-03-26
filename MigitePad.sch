@@ -1093,9 +1093,9 @@ F 3 "" H 1750 2950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1550 2950 1750 2950
-Text GLabel 1500 1350 0    50   Input ~ 0
-SCL
 Text GLabel 1500 1450 0    50   Input ~ 0
+SCL
+Text GLabel 1500 1350 0    50   Input ~ 0
 SDA
 Text GLabel 1800 3150 2    50   Input ~ 0
 SCL
