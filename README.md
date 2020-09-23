@@ -6,9 +6,9 @@ Even reversable for you crazies who want a backwards Numpad!*
 *OLED will need to be trace cut and bodged if you want it to work backwards
 
 Materials needed:
-* 31x Kailh Hotswap Sockets (Technically optional, hotswap through holes are plated)
+* 30x Kailh Hotswap Sockets (Technically optional, hotswap through holes are plated)
 * 31x 1N4148 or SOD-123F Diodes
-* 31x MX style switches
+* 30x MX style switches
 * 1x MJTP1117 Reset Switch
 * 1x Pro Micro or equivilant (Pro Micro chip side up for normal orientation, bottom side up for reversed.)
 * 3x 2u stabilizers
