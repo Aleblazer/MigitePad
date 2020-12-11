@@ -4,8 +4,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
+#define VENDOR_ID       0xFEEF
+#define PRODUCT_ID      0x6061
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Aleblazer
 #define PRODUCT         MigitePad
@@ -51,12 +51,12 @@
 #define PREVENT_STUCK_MODIFIERS
 
 #define RGB_DI_PIN B4
-#ifdef RGB_DI_PIN
-#define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 10
-#define RGBLIGHT_HUE_STEP 8
-#define RGBLIGHT_SAT_STEP 8
-#define RGBLIGHT_VAL_STEP 8
-#endif
-
+#define DRIVER_LED_TOTAL 30
+#define RGB_MATRIX_MAXIMUM_BRIGHTNESS 200
+#define RGB_DISABLE_WHEN_USB_SUSPENDED true
+#define RGB_MATRIX_KEYPRESSES
+#define RGB_MATRIX_HUE_STEP 8
+#define RGB_MATRIX_SAT_STEP 8
+#define RGB_MATRIX_VAL_STEP 8
+#define RGB_MATRIX_SPD_STEP 10
 #endif

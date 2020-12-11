@@ -15,10 +15,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_LEFT, KC_DOWN, KC_RGHT, KC_P0, KC_PDOT, KC_PENT),
 		
 	[FN] = KEYMAP(
-		KC_PSCR, KC_SLCK, KC_PAUS, KC_BSPC, 
-		KC_INS, KC_HOME, KC_PGUP, KC_TRNS, KC_PSLS, KC_PAST, KC_PMNS, 
-		KC_DEL, KC_END, KC_PGDN, KC_P7, KC_P8, KC_P9, KC_PPLS, 
-		KC_P4, KC_P5, KC_P6, 
+		EEP_RST, KC_SLCK, KC_PAUS, KC_BSPC, 
+		KC_INS, KC_HOME, KC_PGUP, KC_TRNS, RGB_MOD, RGB_VAD, RGB_VAD, 
+		KC_DEL, KC_END, KC_PGDN, KC_P7, KC_P8, RGB_SAI, RGB_VAI,
+		KC_P4, KC_P5, RGB_SPD, 
 		KC_UP, KC_P1, KC_P2, KC_P3, 
 		KC_LEFT, KC_DOWN, KC_RGHT, KC_P0, KC_PDOT, KC_PENT),
 
@@ -35,11 +35,11 @@ void encoder_update_user(uint8_t index, bool clockwise) {
 
 #ifdef OLED_DRIVER_ENABLE
 oled_rotation_t oled_init_user(oled_rotation_t rotation) {
-    return OLED_ROTATION_270;  // flips the display 180 degrees if offhand
+    return OLED_ROTATION_180;  // flips the display 180 degrees if offhand
 }
 void oled_task_user(void) {
   // Host Keyboard Layer Status
-  oled_write_P(PSTR("Let's\nbuild\nsome-\nthing\nto-\nget-\nher!"), false);
+  oled_write_P(PSTR("[MigitePad]"), false);
   switch (get_highest_layer(layer_state)) {
     case BASE:
       oled_write_ln_P(PSTR(""), false);
