@@ -1,4 +1,3 @@
-#include "MigitePad.h"
 #include QMK_KEYBOARD_H
 
 #define BASE 0
